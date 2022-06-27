@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/70626111/142834111-e76d6815-b510-4058-9611-dd2b256cba99.png" alt="Deploy Now logo" style="width:200px">
   <a href="https://www.ionos.com/hosting/deploy-now"><h2>IONOS Deploy Now</h2></a>
