@@ -22,7 +22,7 @@ Deploy Now is a hosting platform built from developers for developers. Connect y
 Deploy Now supports all common Static Site Generators and Single Page Application Frameworks as well as the deployment of PHP Apps. 
 
 ## Getting started
-Sign up for free on [ionos.com](https://docs.ionos.space/). You can start your project either [from sample](https://docs.ionos.space/docs/framework-samples), [from command line](https://docs.ionos.space/docs/from-cmd-line) or [from an existing repository](https://docs.ionos.space/docs/from-repo).
+Sign up on [ionos.com](https://docs.ionos.space/). You can start your project either [from sample](https://docs.ionos.space/docs/framework-samples), [from command line](https://docs.ionos.space/docs/from-cmd-line) or [from an existing repository](https://docs.ionos.space/docs/from-repo).
 
 ## Report a bug or issue
 Just hit the contact support button in the product dashboard and our team will reach out to you with a solution.
