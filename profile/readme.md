@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/70626111/142834111-e76d6815-b510-4058-9611-dd2b256cba99.png" alt="Deploy Now logo" style="width:100px">
+  <img src="https://user-images.githubusercontent.com/70626111/228885915-37906fea-80de-4b65-895a-b0d251646439.png" alt="Deploy Now logo" style="width:100px">
   <a href="https://www.ionos.com/hosting/deploy-now"><h2>IONOS Deploy Now</h2></a>
   <p>Deploy smarter. Deploy faster. Deploy Now.</p>
   <a href="https://docs.ionos.space/"><p>View docs</p></a>
